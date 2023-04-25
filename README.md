@@ -1,6 +1,6 @@
 # STUDENTS BLOG
 <p align="center" style="margin-top:6%;margin-bottom:6%;">
- <img style = "width:140px; height:140px;" src="/assets/Images/logo.png" />
+ <img style = "width:140px; height:140px;" src="./assets/Images/logo.png" />
 </p>
 
 ## DEMO
