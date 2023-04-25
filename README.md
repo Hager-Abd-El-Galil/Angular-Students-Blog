@@ -1,12 +1,7 @@
 # STUDENTS BLOG
 <p align="center" style="margin-top:6%;margin-bottom:6%;">
- <img style = "width:140px; height:140px;" src="[../assets/Images/logo.png](https://user-images.githubusercontent.com/81237428/234350643-97d6e11b-d2c7-4a9d-9731-ee8c566ce9c7.png)" />
+ <img style = "width:140px; height:140px;" src="https://user-images.githubusercontent.com/81237428/234350643-97d6e11b-d2c7-4a9d-9731-ee8c566ce9c7.png" />
 </p>
-
-## DEMO
-🎬
-I Hope That You are enjoying Watching The Demo Video 
-[Click Here](https://user-images.githubusercontent.com/81237428/234349592-d167c68b-5440-4930-b3b0-01b2627ae884.mp4) 
 
 ## FEATURES
 - Form Validation
@@ -17,6 +12,11 @@ I Hope That You are enjoying Watching The Demo Video
 - Delete Student
 - Connect to json-server
 - 404 Error Page
+
+## DEMO
+🎬
+I Hope That You are enjoying Watching The Demo Video 
+[Click Here](https://user-images.githubusercontent.com/81237428/234349592-d167c68b-5440-4930-b3b0-01b2627ae884.mp4) 
 
 ## INSTALLATION
 <pre>
