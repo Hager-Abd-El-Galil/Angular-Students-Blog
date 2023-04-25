@@ -1,27 +1,33 @@
-# Lab5
+# STUDENTS BLOG
+<p align="center" style="margin-top:6%;margin-bottom:6%;">
+ <img style = "width:140px; height:140px;" src="/assets/Images/logo.png" />
+</p>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.5.
+## DEMO
+🎬
+I Hope That You are enjoying Watching The Demo Video 
+[Click Here](https://user-images.githubusercontent.com/81237428/234349592-d167c68b-5440-4930-b3b0-01b2627ae884.mp4) 
 
-## Development server
+## INSTALLATION
+<pre>
+git clone https://github.com/Hager-Abd-El-Galil/Angular-Students-Blog
+</pre>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<pre>
+npm install
+</pre>
 
-## Code scaffolding
+<pre>
+ng serve -o
+</pre>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## TECHNOLOGIES
+- Angular [Latest Version]
+- HTML
+- CSS
+- Bootstrap
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## SUPPORT
+If you like our work, feel free to </br>
+⭐ this repository. It helps.
