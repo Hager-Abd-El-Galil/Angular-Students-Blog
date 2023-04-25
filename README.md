@@ -1,7 +1,7 @@
-<p align="left" style="margin-top:6%;margin-bottom:6%;">
+<p align="center" style="margin-top:6%;margin-bottom:6%;">
  <img style = "width:140px; height:140px;" src="https://user-images.githubusercontent.com/81237428/234350643-97d6e11b-d2c7-4a9d-9731-ee8c566ce9c7.png" />
 </p>
-# STUDENTS BLOG
+<h1 align="center"> STUDENTS BLOG</h1>
 
 ## FEATURES
 - Form Validation
